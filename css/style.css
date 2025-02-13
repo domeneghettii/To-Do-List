@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(199, 160, 245);
+}
+
+.container {
+    background: rgba(86, 61, 179, 0.438);
+    padding: 20px;
+    margin: 70px auto;
+    width: 300px;
+    border-radius: 8px;
+}
+
+ul {
+    list-style: none;
+    padding: 0%;
+}
+
+li {
+    margin: 5px 0;
+    padding: 0%;
+}
