@@ -14,9 +14,10 @@ HTML → estrutura da página
 CSS → estilos e layout
 JavaScript → interatividade
 📷 Prévia do Projeto
-![To-Do List Preview](images/preview.png)
+![To-Do List Preview](https://exemplo.com/preview.png)
+
 
 🏃 Como Executar ?
-1️⃣ Baixe ou clone este repositório:
+1️. Baixe ou clone este repositório:
 
 git clone  https://github.com/domeneghettii/To-Do-List
