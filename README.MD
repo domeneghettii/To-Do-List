@@ -1,4 +1,4 @@
-# To-Do List 💕  
+# To-Do-List 💕  
 
 ## 📖 Descrição  
 Este é um projeto simples de **lista de tarefas** feito com **HTML, CSS e JavaScript**.  
